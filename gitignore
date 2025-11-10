@@ -1,0 +1,9 @@
+# build / deps
+node_modules/
+dist/
+build/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
