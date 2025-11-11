@@ -21,3 +21,4 @@ Vote unique par adresse sur **A** ou **B**, résultats publics on-chain.
 
 ## Licence
 MIT
+!
